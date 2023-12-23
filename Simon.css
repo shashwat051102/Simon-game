@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
+}
+
+
+
+
+.btn{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    display: inline-block;
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.8;
+}
+
+.green{
+    background-color: green;
+
+}
+
+.red{
+    background-color: red;
+
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: gray;
+}
